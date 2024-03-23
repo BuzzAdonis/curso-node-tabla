@@ -1,4 +1,4 @@
-#Notas: 
+# Notas: 
 Este es mi primera aplicación en node.
 
 ```
